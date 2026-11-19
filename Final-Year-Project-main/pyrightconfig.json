@@ -1,0 +1,16 @@
+{
+  "venvPath": "ai-service",
+  "venv": ".venv",
+  "extraPaths": [
+    "ai-service"
+  ],
+  "include": [
+    "ai-service",
+    "datasets"
+  ],
+  "exclude": [
+    "**/node_modules",
+    "**/.venv",
+    "**/dist"
+  ]
+}

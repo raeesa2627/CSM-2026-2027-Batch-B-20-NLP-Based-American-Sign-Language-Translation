@@ -1,0 +1,20 @@
+{
+  "id": "test-eval-1792354955146",
+  "datasetName": "core_asl_bench_v1",
+  "strategies": [
+    "baseline_lexical",
+    "rule_nlp",
+    "rag_grounded"
+  ],
+  "results": [
+    {
+      "strategy": "rag_grounded",
+      "bleu_4": 76.5,
+      "chrf_score": 82.1,
+      "vocabulary_coverage_rate": 0.95
+    }
+  ],
+  "summaryAnalysis": "Persistent benchmark verification test.",
+  "createdAt": "2026-10-18T20:22:35.146Z",
+  "metricEngine": "sacrebleu-v2.6"
+}

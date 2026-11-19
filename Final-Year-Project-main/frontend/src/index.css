@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-size-base: 16px;
+  }
+  
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: var(--font-size-base);
+    background-color: #0A0F1C;
+    color: #E2E8F0;
+    color-scheme: dark;
+  }
+
+  body {
+    background-color: #0A0F1C;
+    color: #E2E8F0;
+    overflow-x: hidden;
+  }
+
+  /* High contrast accessibility overrides */
+  html.high-contrast {
+    filter: contrast(125%);
+  }
+
+  html.large-text {
+    --font-size-base: 19px;
+  }
+
+  /* Reduced motion support */
+  @media (prefers-reduced-motion: reduce) {
+    *, ::before, ::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  /* Focus visible accessibility indicators */
+  *:focus-visible {
+    outline: 2px solid #14B8A6;
+    outline-offset: 2px;
+  }
+}
+
+/* Background grid pattern matching reference */
+.bg-grid-pattern {
+  background-image: radial-gradient(rgba(34, 211, 238, 0.07) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.bg-dot-pattern {
+  background-image: radial-gradient(rgba(20, 184, 166, 0.08) 1.5px, transparent 1.5px);
+  background-size: 24px 24px;
+}
+
+/* Glassmorphism card utilities matching reference */
+.glass-panel {
+  background: rgba(15, 23, 42, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(30, 41, 59, 0.85);
+}
+
+.glass-panel-glow {
+  background: rgba(15, 23, 42, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(30, 41, 59, 0.85);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glass-panel-glow:hover {
+  border-color: rgba(20, 184, 166, 0.5);
+  box-shadow: 0 0 25px -4px rgba(20, 184, 166, 0.18);
+  transform: translateY(-2px);
+}
+
+/* Custom accessible dark scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0A0F1C;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1E293B;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #14B8A6;
+}

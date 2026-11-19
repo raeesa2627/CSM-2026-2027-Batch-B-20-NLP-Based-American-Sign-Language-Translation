@@ -1,0 +1,1611 @@
+[
+  {
+    "id": "asl-you",
+    "english_term": "you",
+    "asl_gloss": "YOU",
+    "category": "pronouns",
+    "definition": "Index finger points directly at the conversational partner (deictic pointing)",
+    "synonyms": [
+      "yourself"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/you.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-your",
+    "english_term": "your",
+    "asl_gloss": "YOUR",
+    "category": "pronouns",
+    "definition": "Open flat palm pushes forward toward the conversational partner indicating possession",
+    "synonyms": [
+      "yours"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/your.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL / StartASL Educational Dataset",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-i-me",
+    "english_term": "i",
+    "asl_gloss": "I",
+    "category": "pronouns",
+    "definition": "Index finger points directly at center of own chest (1st person index)",
+    "synonyms": [
+      "me",
+      "myself"
+    ],
+    "media": {
+      "type": "video",
+      "url": null,
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "SpreadTheSign / Open Educational ASL (Pending Verification / Access Blocked)",
+      "license": "CC BY-NC-SA 4.0",
+      "verified": false
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-need",
+    "english_term": "need",
+    "asl_gloss": "NEED",
+    "category": "modals",
+    "definition": "Bent index finger (X-handshape) flexes downward sharply once or twice",
+    "synonyms": [
+      "must",
+      "should",
+      "require"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/need.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "firm_nod",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-have",
+    "english_term": "have",
+    "asl_gloss": "HAVE",
+    "category": "actions",
+    "definition": "Bent open hands with fingertips touch chest on respective sides",
+    "synonyms": [
+      "possess",
+      "own"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/have.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-hello",
+    "english_term": "hello",
+    "asl_gloss": "HELLO",
+    "category": "greetings",
+    "definition": "Open hand with thumb tucked touches temple or forehead and salutes outward",
+    "synonyms": [
+      "hi",
+      "greetings"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/hello.webm",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "Wikimedia Commons (File:Hello1.ogv) / Artist: E5SUON",
+      "license": "CC BY-SA 3.0",
+      "verified": true
+    },
+    "non_manual_signal": "pleasant_smile",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-thank-you",
+    "english_term": "thank you",
+    "asl_gloss": "THANK-YOU",
+    "category": "greetings",
+    "definition": "Flat open hand moves outward from chin toward interlocutor",
+    "synonyms": [
+      "thanks",
+      "thank",
+      "grateful"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/thankyou.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL / SignSchool Educational Dataset",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "nod_smile",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-help",
+    "english_term": "help",
+    "asl_gloss": "HELP",
+    "category": "emergency",
+    "definition": "Closed fist with thumb upright (A-handshape) resting on flat palm is raised together",
+    "synonyms": [
+      "assist",
+      "aid",
+      "assistance"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/help.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "attentive_urgent",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-please",
+    "english_term": "please",
+    "asl_gloss": "PLEASE",
+    "category": "greetings",
+    "definition": "Open flat right hand circles clockwise over the center of the chest",
+    "synonyms": [
+      "kindly",
+      "request"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/please.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL / StartASL Educational Dataset",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "soft_smile",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-name",
+    "english_term": "name",
+    "asl_gloss": "NAME",
+    "category": "conversational",
+    "definition": "Both hands in H-handshape tap twice right over left at right angles",
+    "synonyms": [
+      "called",
+      "title"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/name.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-what",
+    "english_term": "what",
+    "asl_gloss": "WHAT",
+    "category": "questions",
+    "definition": "Both open hands held out with palms up shake gently side-to-side",
+    "synonyms": [
+      "which_question"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/what.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "furrowed_eyebrows",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-where",
+    "english_term": "where",
+    "asl_gloss": "WHERE",
+    "category": "questions",
+    "definition": "Index finger pointing upward shakes side to side in an arc",
+    "synonyms": [
+      "location_question"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/where.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "furrowed_eyebrows",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-who",
+    "english_term": "who",
+    "asl_gloss": "WHO",
+    "category": "questions",
+    "definition": "Thumb of L-handshape placed on chin while index finger wiggles up and down",
+    "synonyms": [
+      "person_question"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/who.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "furrowed_eyebrows",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-how",
+    "english_term": "how",
+    "asl_gloss": "HOW",
+    "category": "questions",
+    "definition": "Curved hands touching at knuckles roll outward until palms face upward",
+    "synonyms": [
+      "manner_question"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/how.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "furrowed_eyebrows",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-why",
+    "english_term": "why",
+    "asl_gloss": "WHY",
+    "category": "questions",
+    "definition": "Open hand touches temple and pulls away downward while middle three fingers curl into Y-handshape",
+    "synonyms": [
+      "reason_question"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/why.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "furrowed_eyebrows",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-yes",
+    "english_term": "yes",
+    "asl_gloss": "YES",
+    "category": "conversational",
+    "definition": "S-handshape (fist) nods up and down repeatedly mimicking a head nodding",
+    "synonyms": [
+      "affirmative",
+      "correct",
+      "agree"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/yes.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "nodding",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-no",
+    "english_term": "no",
+    "asl_gloss": "NO",
+    "category": "conversational",
+    "definition": "Index and middle fingers snap down onto thumb like a bird beak closing",
+    "synonyms": [
+      "not",
+      "negative",
+      "nope"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/no.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "headshake",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-deaf",
+    "english_term": "deaf",
+    "asl_gloss": "DEAF",
+    "category": "community",
+    "definition": "Index finger touches ear then moves forward to touch near mouth or chin",
+    "synonyms": [
+      "hard of hearing"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/deaf.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL / StartASL Educational Dataset",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-interpreter",
+    "english_term": "interpreter",
+    "asl_gloss": "INTERPRETER",
+    "category": "emergency",
+    "definition": "Both hands in F-handshape twist back and forth followed by person/agent marker downward",
+    "synonyms": [
+      "asl interpreter",
+      "translator"
+    ],
+    "media": {
+      "type": "video",
+      "url": null,
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "SpreadTheSign / Open Educational ASL (Pending Verification / Access Blocked)",
+      "license": "CC BY-NC-SA 4.0",
+      "verified": false
+    },
+    "non_manual_signal": "attentive",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-hospital",
+    "english_term": "hospital",
+    "asl_gloss": "HOSPITAL",
+    "category": "emergency",
+    "definition": "Index and middle fingers form an H/cross shape on the upper arm",
+    "synonyms": [
+      "clinic",
+      "emergency room",
+      "medical center"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/hospital.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-doctor",
+    "english_term": "doctor",
+    "asl_gloss": "DOCTOR",
+    "category": "emergency",
+    "definition": "Fingers of bent right hand tap wrist of upturned left hand, checking pulse",
+    "synonyms": [
+      "physician",
+      "medic"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/doctor.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-pain",
+    "english_term": "pain",
+    "asl_gloss": "PAIN",
+    "category": "emergency",
+    "definition": "Both index fingers twist repeatedly pointing towards each other over injured location",
+    "synonyms": [
+      "hurt",
+      "ache",
+      "sore"
+    ],
+    "media": {
+      "type": "video",
+      "url": null,
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "SpreadTheSign / Open Educational ASL (Pending Verification / Access Blocked)",
+      "license": "CC BY-NC-SA 4.0",
+      "verified": false
+    },
+    "non_manual_signal": "grimace_pained",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-write",
+    "english_term": "write",
+    "asl_gloss": "WRITE",
+    "category": "emergency",
+    "definition": "Thumb and index pinch together like holding pen and trace across open flat palm",
+    "synonyms": [
+      "pen",
+      "note",
+      "paper"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/write.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL / StartASL Educational Dataset",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-water",
+    "english_term": "water",
+    "asl_gloss": "WATER",
+    "category": "basic_needs",
+    "definition": "W-handshape index finger taps the chin twice",
+    "synonyms": [
+      "drink",
+      "thirsty"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/water.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-food",
+    "english_term": "food",
+    "asl_gloss": "FOOD",
+    "category": "basic_needs",
+    "definition": "Flattened O-handshape taps lips twice",
+    "synonyms": [
+      "eat",
+      "meal",
+      "hungry"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/food.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-bathroom",
+    "english_term": "bathroom",
+    "asl_gloss": "BATHROOM",
+    "category": "basic_needs",
+    "definition": "T-handshape (thumb between index and middle fingers) shakes side-to-side",
+    "synonyms": [
+      "restroom",
+      "toilet",
+      "washroom"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/bathroom.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "urgent_inquiry",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-understand",
+    "english_term": "understand",
+    "asl_gloss": "UNDERSTAND",
+    "category": "conversational",
+    "definition": "Index finger flicks upward near the side of the forehead like a lightbulb turning on",
+    "synonyms": [
+      "comprehend",
+      "get it"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/understand.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL / SignSchool Educational Dataset",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "nod_or_shake",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-learn",
+    "english_term": "learn",
+    "asl_gloss": "LEARN",
+    "category": "education",
+    "definition": "Fingers grab information off open palm of left hand and bring it up to forehead",
+    "synonyms": [
+      "study",
+      "acquire"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/learn.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-student",
+    "english_term": "student",
+    "asl_gloss": "STUDENT",
+    "category": "education",
+    "definition": "Sign for LEARN followed by flat downward hands for PERSON marker",
+    "synonyms": [
+      "learner",
+      "pupil"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/student.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-teacher",
+    "english_term": "teacher",
+    "asl_gloss": "TEACHER",
+    "category": "education",
+    "definition": "Flattened O-hands at temples push forward twice followed by PERSON marker",
+    "synonyms": [
+      "instructor",
+      "professor"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/teacher.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-family",
+    "english_term": "family",
+    "asl_gloss": "FAMILY",
+    "category": "family",
+    "definition": "Both hands in F-handshape touch index fingers and sweep in an outward circle until pinkies touch",
+    "synonyms": [
+      "household",
+      "relatives"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/family.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-friend",
+    "english_term": "friend",
+    "asl_gloss": "FRIEND",
+    "category": "family",
+    "definition": "Index fingers hook together right over left, then reverse left over right",
+    "synonyms": [
+      "buddy",
+      "companion",
+      "pal"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/friend.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "warm_smile",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-good",
+    "english_term": "good",
+    "asl_gloss": "GOOD",
+    "category": "descriptors",
+    "definition": "Fingers of right hand touch chin and drop down onto open left palm",
+    "synonyms": [
+      "great",
+      "fine",
+      "well"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/good.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "nod_smile",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-bad",
+    "english_term": "bad",
+    "asl_gloss": "BAD",
+    "category": "descriptors",
+    "definition": "Right hand touches chin and twists outward/downward turning palm down",
+    "synonyms": [
+      "poor",
+      "terrible",
+      "awful"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/bad.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "slight_frown",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-today",
+    "english_term": "today",
+    "asl_gloss": "TODAY",
+    "category": "time",
+    "definition": "Both hands in Y-handshape drop downward twice in front of body",
+    "synonyms": [
+      "this day",
+      "now"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/today.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-tomorrow",
+    "english_term": "tomorrow",
+    "asl_gloss": "TOMORROW",
+    "category": "time",
+    "definition": "A-handshape thumb touches jawline and arcs forward",
+    "synonyms": [
+      "next day"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/tomorrow.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-yesterday",
+    "english_term": "yesterday",
+    "asl_gloss": "YESTERDAY",
+    "category": "time",
+    "definition": "A-handshape thumb touches chin then moves backward to touch ear",
+    "synonyms": [
+      "prior day"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/yesterday.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-now",
+    "english_term": "now",
+    "asl_gloss": "NOW",
+    "category": "time",
+    "definition": "Both hands in bent-Y handshape drop downward once sharply",
+    "synonyms": [
+      "currently",
+      "present"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/now.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-go",
+    "english_term": "go",
+    "asl_gloss": "GO",
+    "category": "actions",
+    "definition": "Both index fingers point upward and arc forward away from the body",
+    "synonyms": [
+      "travel",
+      "depart",
+      "leave"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/go.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-come",
+    "english_term": "come",
+    "asl_gloss": "COME",
+    "category": "actions",
+    "definition": "Both index fingers point outward and arc inward towards the chest",
+    "synonyms": [
+      "arrive",
+      "approach"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/come.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL / ASLBricks Educational Dataset",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-like",
+    "english_term": "like",
+    "asl_gloss": "LIKE",
+    "category": "emotions",
+    "definition": "Thumb and middle finger pull away from chest together, touching as they pull out",
+    "synonyms": [
+      "enjoy",
+      "fond of"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/like.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "smile",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-see",
+    "english_term": "see",
+    "asl_gloss": "SEE",
+    "category": "actions",
+    "definition": "V-handshape with fingertips starting at eyes moves forward towards object",
+    "synonyms": [
+      "look",
+      "watch",
+      "view"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/see.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-meet",
+    "english_term": "meet",
+    "asl_gloss": "MEET",
+    "category": "conversational",
+    "definition": "Both index fingers pointing upward move toward each other until knuckles touch",
+    "synonyms": [
+      "encounter",
+      "greet"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/meet.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL / SignSchool Educational Dataset",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "smile",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-love",
+    "english_term": "love",
+    "asl_gloss": "LOVE",
+    "category": "emotions",
+    "definition": "Both arms crossed over chest hugging heart (or I-L-Y handshape)",
+    "synonyms": [
+      "adore",
+      "cherish"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/love.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL / StartASL Educational Dataset",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "affectionate_smile",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-happy",
+    "english_term": "happy",
+    "asl_gloss": "HAPPY",
+    "category": "emotions",
+    "definition": "Open flat hand brushes upward against chest repeatedly",
+    "synonyms": [
+      "glad",
+      "joyful",
+      "cheerful"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/happy.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "big_smile",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-sorry",
+    "english_term": "sorry",
+    "asl_gloss": "SORRY",
+    "category": "greetings",
+    "definition": "A-handshape (fist) rubs clockwise in circles over heart",
+    "synonyms": [
+      "apologize",
+      "regret",
+      "forgive"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/sorry.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "apologetic_expression",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-fine",
+    "english_term": "fine",
+    "asl_gloss": "FINE",
+    "category": "conversational",
+    "definition": "Open 5-handshape thumb touches center of chest and pushes gently outward",
+    "synonyms": [
+      "alright",
+      "okay"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/fine.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL / StartASL Educational Dataset",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "nod_smile",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-school",
+    "english_term": "school",
+    "asl_gloss": "SCHOOL",
+    "category": "education",
+    "definition": "Flat open right hand claps down onto flat open left palm twice horizontally",
+    "synonyms": [
+      "academy",
+      "college",
+      "university"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/school.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-car",
+    "english_term": "car",
+    "asl_gloss": "CAR",
+    "category": "objects",
+    "definition": "Both hands in S-handshape hold imaginary steering wheel and steer up and down",
+    "synonyms": [
+      "automobile",
+      "vehicle",
+      "drive"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/car.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-house",
+    "english_term": "house",
+    "asl_gloss": "HOUSE",
+    "category": "places",
+    "definition": "Flat open hands touch fingertips forming a peaked roof then separate and move down forming walls",
+    "synonyms": [
+      "home",
+      "residence"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/house.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-book",
+    "english_term": "book",
+    "asl_gloss": "BOOK",
+    "category": "objects",
+    "definition": "Flat hands with palms together open outward like opening a book",
+    "synonyms": [
+      "reading",
+      "volume",
+      "novel"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/book.webm",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "Wikimedia Commons (File:ASL BOOK justsign.ogv) / Artist: Richard Goodrow",
+      "license": "CC BY 3.0",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-money",
+    "english_term": "money",
+    "asl_gloss": "MONEY",
+    "category": "objects",
+    "definition": "Flattened O-handshape taps palm of upturned flat left hand twice",
+    "synonyms": [
+      "cash",
+      "funds",
+      "currency"
+    ],
+    "media": {
+      "type": "video",
+      "url": null,
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "SpreadTheSign / Open Educational ASL (Pending Verification / Access Blocked)",
+      "license": "CC BY-NC-SA 4.0",
+      "verified": false
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-near",
+    "english_term": "near",
+    "asl_gloss": "NEAR",
+    "category": "descriptors",
+    "definition": "Bent right open hand hovers and moves closer towards the back of bent left hand",
+    "synonyms": [
+      "close",
+      "nearby",
+      "adjacent",
+      "nearest",
+      "closer"
+    ],
+    "media": {
+      "type": "video",
+      "url": null,
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "SpreadTheSign / Open Educational ASL (Pending Verification / Access Blocked)",
+      "license": "CC BY-NC-SA 4.0",
+      "verified": false
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-far",
+    "english_term": "far",
+    "asl_gloss": "FAR",
+    "category": "descriptors",
+    "definition": "Both A-hands start touching thumbs; right hand arches outward far ahead",
+    "synonyms": [
+      "distant",
+      "remote"
+    ],
+    "media": {
+      "type": "video",
+      "url": null,
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "SpreadTheSign / Open Educational ASL (Pending Verification / Access Blocked)",
+      "license": "CC BY-NC-SA 4.0",
+      "verified": false
+    },
+    "non_manual_signal": "squint_eyes",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-stop",
+    "english_term": "stop",
+    "asl_gloss": "STOP",
+    "category": "emergency",
+    "definition": "Pinky side of flat right hand comes down sharply across flat upturned palm of left hand",
+    "synonyms": [
+      "halt",
+      "cease",
+      "quit"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/stop.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL / SignSchool Educational Dataset",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "emphatic_firm",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-my",
+    "english_term": "my",
+    "asl_gloss": "MY",
+    "category": "pronouns",
+    "definition": "Flat open palm placed against the center of chest indicating possession",
+    "synonyms": [
+      "mine"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/my.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL / SignSchool Educational Dataset",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-bye",
+    "english_term": "bye",
+    "asl_gloss": "BYE",
+    "category": "greetings",
+    "definition": "Open flat hand held upright with palm facing forward waves fingers side to side in greeting or parting",
+    "synonyms": [
+      "goodbye",
+      "farewell",
+      "cya",
+      "see ya"
+    ],
+    "media": {
+      "type": "video",
+      "url": null,
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "Curated ASL Educational Catalog (Visual Asset Pending Verification)",
+      "license": "Open Educational Fair Use",
+      "verified": false
+    },
+    "non_manual_signal": "warm_smile",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-want",
+    "english_term": "want",
+    "asl_gloss": "WANT",
+    "category": "descriptors",
+    "definition": "Both open hands with palms up and fingers curved into claw shapes pull backward toward the body",
+    "synonyms": [
+      "desire",
+      "wish",
+      "crave"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/want.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks / StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "earnest_expression",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-buy",
+    "english_term": "buy",
+    "asl_gloss": "BUY",
+    "category": "actions",
+    "definition": "Right hand in flattened O-shape rests on left open flat upturned palm, then moves forward and outward as if handing money",
+    "synonyms": [
+      "purchase",
+      "paying",
+      "pay",
+      "shop"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/buy.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL / StartASL Educational Dataset",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-hey",
+    "english_term": "hey",
+    "asl_gloss": "HEY",
+    "category": "greetings",
+    "definition": "Open hand held upright waves forward or flaps down to gain attention (informal attention getter)",
+    "synonyms": [],
+    "media": {
+      "type": "video",
+      "url": null,
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "Curated ASL Catalog (Visual Asset Pending Verification)",
+      "license": "Open Educational Fair Use",
+      "verified": false
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-do",
+    "english_term": "do",
+    "asl_gloss": "DO",
+    "category": "verbs",
+    "definition": "Both hands in G or pinched shape palms up or down moving back and forth, or repetitive index-thumb pinch for 'do/action'",
+    "synonyms": [
+      "doing",
+      "did",
+      "does"
+    ],
+    "media": {
+      "type": "video",
+      "url": null,
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "Curated ASL Catalog (Visual Asset Pending Verification)",
+      "license": "Open Educational Fair Use",
+      "verified": false
+    },
+    "non_manual_signal": "furrowed_eyebrows",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-drink",
+    "english_term": "drink",
+    "asl_gloss": "DRINK",
+    "category": "actions",
+    "definition": "C-handshape mimics holding a cup and brings it to mouth tipping head back slightly",
+    "synonyms": [
+      "drinking",
+      "beverage",
+      "drinks"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/drink.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-work",
+    "english_term": "work",
+    "asl_gloss": "WORK",
+    "category": "actions",
+    "definition": "Both hands in S-handshape with palms down; dominant fist taps heel of nondominant fist repeatedly",
+    "synonyms": [
+      "working",
+      "job",
+      "labor",
+      "employment"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/work.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (StartASL)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-play",
+    "english_term": "play",
+    "asl_gloss": "PLAY",
+    "category": "actions",
+    "definition": "Both hands in Y-handshape shake back and forth with wrist twisting motion",
+    "synonyms": [
+      "playing",
+      "game",
+      "recreation"
+    ],
+    "media": {
+      "type": "video",
+      "url": "/media/asl/play.mp4",
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "WLASL Open Educational ASL Dataset (ASLBricks)",
+      "license": "Open Educational Fair Use",
+      "verified": true
+    },
+    "non_manual_signal": "pleasant_smile",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-he",
+    "english_term": "he",
+    "asl_gloss": "HE/SHE",
+    "category": "pronouns",
+    "definition": "Index finger points outward to the side toward an established spatial locus (3rd person spatial pointing)",
+    "synonyms": [
+      "she",
+      "it",
+      "him",
+      "her",
+      "his"
+    ],
+    "media": {
+      "type": "video",
+      "url": null,
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "Curated ASL Catalog (Visual Asset Pending Verification)",
+      "license": "Open Educational Fair Use",
+      "verified": false
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  },
+  {
+    "id": "asl-they",
+    "english_term": "they",
+    "asl_gloss": "THEY",
+    "category": "pronouns",
+    "definition": "Index finger sweeps in an arc across the spatial plane indicating third person plural group",
+    "synonyms": [
+      "them",
+      "their",
+      "theirs"
+    ],
+    "media": {
+      "type": "video",
+      "url": null,
+      "fallback_image": null,
+      "thumbnail_url": null,
+      "source": "Curated ASL Catalog (Visual Asset Pending Verification)",
+      "license": "Open Educational Fair Use",
+      "verified": false
+    },
+    "non_manual_signal": "neutral",
+    "review_status": "approved",
+    "reviewer": "Linguistics Quality Team",
+    "version": "1.0.0"
+  }
+]

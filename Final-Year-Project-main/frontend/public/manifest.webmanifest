@@ -1,0 +1,37 @@
+{
+  "name": "ASL Bridge AI",
+  "short_name": "ASL Bridge",
+  "description": "Context-Aware Multimodal American Sign Language Translation Platform",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0A0F1C",
+  "theme_color": "#0A0F1C",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": [
+    "education",
+    "accessibility",
+    "utilities"
+  ]
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#0A0F1C"/>
+  <rect x="64" y="64" width="384" height="384" rx="96" fill="url(#tealCyanGrad)"/>
+  <defs>
+    <linearGradient id="tealCyanGrad" x1="64" y1="64" x2="448" y2="448" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#14B8A6"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <!-- Main Center Star / Sparkle Motif -->
+  <path d="M256 160 L280 232 L352 256 L280 280 L256 352 L232 280 L160 256 L232 232 Z" fill="#0A0F1C"/>
+  <!-- Secondary Accompanying Sparkle -->
+  <path d="M344 144 L356 176 L388 188 L356 200 L344 232 L332 200 L300 188 L332 176 Z" fill="#0A0F1C"/>
+</svg>
